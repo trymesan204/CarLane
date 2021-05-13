@@ -175,7 +175,7 @@ function game(){
     var restart = document.getElementById('restart');
     restart.addEventListener('click', function(){
         //road.style.display = 'block';
-        gameOver.style.display = 'none';
+        //gameOver.style.display = 'none';
     });
 }
 
