@@ -1,0 +1,59 @@
+.road{
+    width: 400px;
+    height: 650px;
+    margin: 0 auto;
+    background-color: #483F36;
+    position: relative;
+    overflow: hidden;
+    display: none;
+}
+
+.entry{
+    margin: 0 auto;
+    width: 400px;
+    position: relative;
+    height: 650px;
+    background-color: #483F36;
+
+}
+
+.button{
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 300px;
+    background-color: blue;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    position: absolute;
+    color: wheat;
+}
+
+.button:hover{
+    cursor: pointer;
+}
+
+.game-over{
+    display: none;
+    margin: 0 auto;
+    width: 400px;
+    position: relative;
+    height: 650px;
+    background-color: #483F36;
+}
+
+.restart{
+    width: 200px;
+    background-color: red;
+    margin-top: 300px;
+    margin-left: 100px  ;
+    position: absolute;
+    text-align: center;
+    font-size: 30px;
+    padding: 12px 0;
+}
+
+.restart:hover{
+    cursor: pointer;
+}
