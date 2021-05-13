@@ -30,6 +30,13 @@
     color: wheat;
 }
 
+.help{
+    margin-top: 400px;
+    color: white;
+    position: absolute;
+    margin-left: 135px;
+}
+
 .button:hover{
     cursor: pointer;
 }
