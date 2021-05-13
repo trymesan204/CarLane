@@ -176,6 +176,7 @@ function game(){
     restart.addEventListener('click', function(){
         //road.style.display = 'block';
         //gameOver.style.display = 'none';
+        location.reload();
     });
 }
 
